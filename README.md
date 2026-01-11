@@ -57,6 +57,9 @@ Acesse a aplicação em [Agenda](https://agendaotaviossousa.pythonanywhere.com)
 ### Painel Administrativo
 ![Admin](media/images/Tela_Admin.png)
 
+### Diagrama ER
+![Diagrama ER](media/images/DER_DIAGRAM.png)
+
 ## Como Executar
 
 1. Clone o repositório
